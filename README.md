@@ -33,7 +33,7 @@ fish-species-classifier/
 ├── train.py              # Model training pipeline
 ├── datacleaning.py       # Dataset verification & cleaning
 ├── requirements.txt      # Project dependencies
-├── frontend/             # React frontend
+├── /fish-ui     # React frontend
 └── .gitignore            # Ignores datasets and trained model files
 ```
 

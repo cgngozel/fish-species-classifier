@@ -188,7 +188,7 @@ fish_species_model.keras
 
 Download the trained model from:
 
-https://drive.google.com/drive/folders/1ubemvkSErh0_5ceMB1NoaUtB8c9wWhyr?usp=sharing
+[https://drive.google.com/drive/folders/1ubemvkSErh0_5ceMB1NoaUtB8c9wWhyr?usp=sharing](https://drive.google.com/drive/folders/1OmQeoQMZb5TZtI9x9LgNw65y2r9Om1QA?usp=sharing)
 
 Place
 

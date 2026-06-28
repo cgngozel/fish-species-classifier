@@ -1,4 +1,4 @@
-# Fish Species Classifier (API & Model Deployment) 🐟
+# Fish Species Classifier (API & Model Deployment) 
 
 An end-to-end Deep Learning application for classifying **9 fish species** from uploaded images.
 

@@ -288,16 +288,6 @@ assets/
 
 ---
 
-# Future Improvements
-
-* Docker support
-* Model versioning
-* Batch image prediction
-* GPU inference
-* Cloud deployment
-
----
-
 # License
 
 This project is distributed under the **MIT License**.
